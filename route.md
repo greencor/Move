@@ -23,7 +23,7 @@ Little Rock, AR to [Murfreesboro, TN](https://maps.app.goo.gl/bVtnWE2aw6Twp9RWA)
 
 5 hours, 22 minutes (375 miles)
 
-<img src="images/LR_AR-MUR_TN.png" height="200">
+<img src="images/LR_AR-MUR_TN.png" height="150">
 
 - Depart ~10 AM
 
@@ -57,7 +57,7 @@ Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
 6 hours, 32 minutes (429 miles)
 
-<img src="images/COL_OH-CAN_NY.png" height="200">
+<img src="images/COL_OH-CAN_NY.png" height="175">
 
 - Depart ~10 AM
 
@@ -77,7 +77,7 @@ Canandaigua, NY to [Portland, ME](https://maps.app.goo.gl/X56vmV43XoPi2mTK6) ---
 
 9 hours (429 miles)
 
-<img src="images/CAN_NY-POR_ME.png" height="125">
+<img src="images/CAN_NY-POR_ME.png" height="100">
 
 - Depart ~8 AM
 
