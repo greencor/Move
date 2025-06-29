@@ -8,7 +8,7 @@ Austin to [Little Rock, AR](https://maps.app.goo.gl/RSqsVbbEEius8Uhy6)
 
 7 hours, 33 minutes (517 miles)
 
-<img src="images/AUS_TX-LR_AR.png" height="300">
+<img src="images/AUS_TX-LR_AR.png" height="200">
 
 - Depart ~10 AM
 
@@ -23,7 +23,7 @@ Little Rock, AR to [Murfreesboro, TN](https://maps.app.goo.gl/bVtnWE2aw6Twp9RWA)
 
 5 hours, 22 minutes (375 miles)
 
-<img src="images/LR_AR-MUR_TN.png" height="250">
+<img src="images/LR_AR-MUR_TN.png" height="200">
 
 - Depart ~10 AM
 
@@ -41,7 +41,7 @@ Murfreesboro, TN to [Columbus, OH](https://maps.app.goo.gl/Q4yeC6588fyNRwJHA)
 
 6 hours, 7 minutes (412 miles)
 
-<img src="images/MUR_TN-COL_OH.png" height="300">
+<img src="images/MUR_TN-COL_OH.png" height="200">
 
 - Depart ~9 AM
 
@@ -57,7 +57,7 @@ Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
 6 hours, 32 minutes (429 miles)
 
-<img src="images/COL_OH-CAN_NY.png" height="300">
+<img src="images/COL_OH-CAN_NY.png" height="200">
 
 - Depart ~10 AM
 
@@ -77,7 +77,7 @@ Canandaigua, NY to [Portland, ME](https://maps.app.goo.gl/X56vmV43XoPi2mTK6) ---
 
 9 hours (429 miles)
 
-<img src="images/CAN_NY-POR_ME.png" height="175">
+<img src="images/CAN_NY-POR_ME.png" height="125">
 
 - Depart ~8 AM
 
