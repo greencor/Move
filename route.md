@@ -2,13 +2,13 @@
 ### [Whole Trip](https://maps.app.goo.gl/MdMXAQ76ksYJKyqo7)
 35 hours, 2159 miles
 
-[Day 1](#"day-1)<br>
+[Day 1](#day-1)<br>
 [Day 2](#day-2)<br>
-[Day 3](#day-3)<br>
-[Day 4](#day-4)<br>
+[Day 3 - 4](#day-3-4)<br>
 [Day 5](#day-5)<br>
 [Day 6](#day-6)<br>
-[Day 7](#day-7)<br>
+[Day 7 - 9](#day-7-9)<br>
+[Day 10](#day-10)<br>
 
 
 # Day 1
@@ -44,12 +44,12 @@ Little Rock, AR to [Murfreesboro, TN](https://maps.app.goo.gl/bVtnWE2aw6Twp9RWA)
 
 - Stay at Air BnB (TBD)
 
-# Day 3
-## August 29
+# Day 3-4 
+## August 29 - 30
 Stay in Murfreesboro to hang with family
 
-# Day 4
-## August 30
+# Day 5
+## August 31
 Murfreesboro, TN to [Columbus, OH](https://maps.app.goo.gl/Q4yeC6588fyNRwJHA)
 
 6 hours, 7 minutes (412 miles)
@@ -64,8 +64,8 @@ Murfreesboro, TN to [Columbus, OH](https://maps.app.goo.gl/Q4yeC6588fyNRwJHA)
 
 - Stay at Hotel/Motel
 
-# Day 5
-## August 31
+# Day 6
+## September 1
 
 Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
@@ -81,15 +81,17 @@ Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
 - Stay at Air BnB (TBD)
 
-# Day 6
-## September 1
+# Day 7-9
+## September 2 - 4
 
 Stay in Canandaigua to hang with family.
 
-# Day 7
-## September 2
+# Day 10
+## September 5
 
-Canandaigua, NY to [Portland, ME](https://maps.app.goo.gl/X56vmV43XoPi2mTK6) --- *update with final address*
+Canandaigua, NY to [Portland, ME](https://maps.app.goo.gl/X56vmV43XoPi2mTK6) 
+
+ [117 Lofts](https://www.portproperty.com/building/117-preble-street/)
 
 9 hours (429 miles)
 
