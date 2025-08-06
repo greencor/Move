@@ -4,10 +4,10 @@
 
 [Day 1](#day-1)<br>
 [Day 2](#day-2)<br>
-[Day 3 - 4](#day-3-4)<br>
+[Day 3](#day-3)<br>
+[Day 4](#day-4)<br>
 [Day 5](#day-5)<br>
-[Day 6](#day-6)<br>
-[Day 7 - 9](#day-7-9)<br>
+[Day 6 - 9](#day-6-9)<br>
 [Day 10](#day-10)<br>
 
 
@@ -44,12 +44,12 @@ Little Rock, AR to [Murfreesboro, TN](https://maps.app.goo.gl/bVtnWE2aw6Twp9RWA)
 
 - Stay at Air BnB (TBD)
 
-# Day 3-4 
-### August 29<sup>th</sup> - 30<sup>th</sup>
+# Day 3
+### August 29<sup>th</sup>
 Stay in Murfreesboro to hang with family
 
-# Day 5
-### August 31<sup>st</sup>
+# Day 4
+### August 30<sup>st</sup>
 Murfreesboro, TN to [Columbus, OH](https://maps.app.goo.gl/Q4yeC6588fyNRwJHA)
 
 6 hours, 7 minutes (412 miles)
@@ -64,8 +64,8 @@ Murfreesboro, TN to [Columbus, OH](https://maps.app.goo.gl/Q4yeC6588fyNRwJHA)
 
 - Stay at Hotel/Motel
 
-# Day 6
-### September 1<sup>st</sup>
+# Day 5
+### August 31<sup>st</sup>
 
 Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
@@ -81,8 +81,8 @@ Columbus, OH to [Canandaigua, NY](https://maps.app.goo.gl/rc2MMeUWn7wRtm9f6)
 
 - Stay at Air BnB (TBD)
 
-# Day 7-9
-### September 2<sup>nd</sup> - 4<sup>th</sup>
+# Day 6-9
+### September 1<sup>st</sup> - 4<sup>th</sup>
 
 Stay in Canandaigua to hang with family.
 
